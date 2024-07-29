@@ -19,7 +19,7 @@ features:
   - icon: 📚
     title: 电子化项目
     details: 基于扫描版完成的《语法俱乐部》电子化项目，使用 VitePress 生成。
-  - icon: 🧑‍🏫
+  - icon: 👨‍🏫
     title: 作者简介
     details: 旋元佑老师，TIME 中文解读版《解读时代杂志》总主笔，创下托福和 GRE 世界纪录。
   - icon: 🏆
